@@ -1,1 +1,1 @@
-# Bash-Shell-Themes
+# Bash Shell Themes
